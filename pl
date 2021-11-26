@@ -14,6 +14,12 @@ http://mains.services:2086/Sammy/Sammy/92759?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",TVN
 http://mains.services:2086/nick5404/9928627/92749?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",TVN 7 FHD
+http://iptv.csserv.co:8000/live/clientr725/631739/8853.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",POLSAT 2 HD
+http://iptv.csserv.co:8000/live/clientr725/631739/8856.ts?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",TVN 24 FHD
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/891?checkedby:iptvcat.com
 
@@ -32,17 +38,29 @@ https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
 #EXTINF:-1 tvg-id="TVP3Katowice.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/burRKHa.jpg" group-title="",TVP 3 Katowice (404p)
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
 
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",TVS
+http://mains.services:2086/nick5404/9928627/92835?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",HGTV FHD PL
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6888?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Domo+ HD
 http://iptv.csserv.co:8000/live/clientr725/631739/8339.ts?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",TVN Style
+http://iptv.csserv.co:8000/live/clientr725/631739/3505.ts?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Kino Polska
 http://iptv.csserv.co:8000/live/clientr725/631739/3482.ts?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Paramount Channel FHD PL
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4542?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",AXN HD
+http://iptv.csserv.co:8000/live/clientr725/631739/8860.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",13 Ulica FHD PL
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/865?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",HBO
 http://iptv.csserv.co:8000/live/clientr725/631739/4156.ts?checkedby:iptvcat.com
@@ -53,8 +71,50 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6889?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",HBO 3
 http://mains.services:2086/nick5404/9928627/92771?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Canal+ PL
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/8429?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",CANAL+ FAMILY HD
+http://iptv.csserv.co:8000/live/clientr725/631739/4143.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Canal+ Film HD
+http://iptv.csserv.co:8000/live/clientr725/631739/8216.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Fox HD
+http://iptv.csserv.co:8000/live/clientr725/631739/8215.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Filmbox Action
+http://iptv.csserv.co:8000/live/clientr725/631739/4433.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Filmbox Premium HD
+http://iptv.csserv.co:8000/live/clientr725/631739/8213.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Cinemax HD
+http://iptv.csserv.co:8000/live/clientr725/631739/4440.ts?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",TVP Seriale
 http://iptv.csserv.co:8000/live/clientr725/631739/3490.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",TVN Fabuła FHD
+http://iptv.csserv.co:8000/live/clientr725/631739/8854.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Discovery HD
+http://iptv.csserv.co:8000/live/clientr725/631739/8343.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Discovery Life HD
+http://iptv.csserv.co:8000/live/clientr725/631739/8345.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Discovery Science FHD
+http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/43157?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",History FHD PL
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10460?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",National Geographic HD
+http://iptv.csserv.co:8000/live/clientr725/631739/4136.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",National Geo Wild HD
+http://iptv.csserv.co:8000/live/clientr725/631739/4137.ts?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Disney Channel FHD PL
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/963?checkedby:iptvcat.com
@@ -64,6 +124,12 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/864?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Kino Polska Muzyka PL
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/918?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",MTV Music 24
+http://wagmaott.com:8080/mag00:1A:79:49:0F:A6/ubkyntGhbV/43104?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",MTV POLSKA
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/1291?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="4FUNTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="" group-title="",4FUN TV (576p) [Not 24/7]
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
@@ -187,3 +253,5 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 tvg-id="WeatherNews.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="Weather",Weather News (720p)
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",TVP 2 FHD
+http://wagmaott.com:8080/mhdsat-adminqJluQHhUPg/5AchGBNS4S/43020?checkedby:iptvcat.com
