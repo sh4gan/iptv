@@ -1,27 +1,27 @@
 #EXTM3U
 #EXTINF:0 tvg-country="PL" tvg-language="Polish" tvg-logo="" group-title="Ogólne",TVP 1
-http://wagmaott.com:8080/mhdsat-adminqJluQHhUPg/5AchGBNS4S/43021?checkedby:iptvcat.com
+http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34477
 
 #EXTINF:0 tvg-country="PL" tvg-language="Polish" tvg-logo="" group-title="Ogólne",TVP 2
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34478
 
 #EXTINF:0 tvg-country="PL" tvg-language="Polish" tvg-logo="" group-title="Ogólne",TVP 3
-http://iptv.csserv.co:8000/live/clientr725/631739/4153.ts?checkedby:iptvcat.com
+http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/639
 
 #EXTINF:0 tvg-country="PL" tvg-language="Polish" tvg-logo="" group-title="Ogólne",Polsat
-http://mains.services:2086/Sammy/Sammy/92759?checkedby:iptvcat.com
+http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34481
 
 #EXTINF:0 tvg-country="PL" tvg-language="Polish" tvg-logo="" group-title="Ogólne",TVN
-http://mains.services:2086/nick5404/9928627/92749?checkedby:iptvcat.com
+http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34470
 
 #EXTINF:0 tvg-country="PL" tvg-language="Polish" tvg-logo="" group-title="Ogólne",TVN 7
-http://iptv.csserv.co:8000/live/clientr725/631739/8853.ts?checkedby:iptvcat.com
+http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34475
 
 #EXTINF:0 tvg-country="PL" tvg-language="Polish" tvg-logo="" group-title="Ogólne",Polsat 2
-http://iptv.csserv.co:8000/live/clientr725/631739/8856.ts?checkedby:iptvcat.com
+http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34566
 
 #EXTINF:0 tvg-country="PL" tvg-language="Polish" tvg-logo="" group-title="Informacyjne",TVN 24
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/891?checkedby:iptvcat.com
+http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34476
 
 #EXTINF:0 tvg-country="PL" tvg-language="Polish" tvg-logo="" group-title="Informacyjne",TVP Info
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10424?checkedby:iptvcat.com
@@ -42,7 +42,7 @@ http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
 http://mains.services:2086/nick5404/9928627/92835?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PL" tvg-language="Polish" tvg-logo="" group-title="Tematyczne",HGTV
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6888?checkedby:iptvcat.com
+http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/10170
 
 #EXTINF:0 tvg-country="PL" tvg-language="Polish" tvg-logo="" group-title="Tematyczne",Canal+ Domo
 http://iptv.csserv.co:8000/live/clientr725/631739/8339.ts?checkedby:iptvcat.com
