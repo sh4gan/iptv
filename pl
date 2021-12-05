@@ -3,7 +3,7 @@
 http://wagmaott.com:8080/mhdsat-adminqJluQHhUPg/5AchGBNS4S/43021?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PL" tvg-language="Polish" tvg-logo="" group-title="Ogólne",TVP 2
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/867?checkedby:iptvcat.com
+http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34478
 
 #EXTINF:0 tvg-country="PL" tvg-language="Polish" tvg-logo="" group-title="Ogólne",TVP 3
 http://iptv.csserv.co:8000/live/clientr725/631739/4153.ts?checkedby:iptvcat.com
