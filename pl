@@ -5,240 +5,128 @@ https://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3
 https://dvrfl01.tulix.tv/bohobeatifulyoga/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Inne", Joga TV
 https://dvrfl01.tulix.tv/bohobeatifulyoga/tracks-v1a1/2021/12/09/01/29/37-10010.ts
-
-
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",TVP HD
 https://ctpjxnnabnigzczq.wzcdn431.net:8443/hls/tk6gbt3.m3u8?s=IgW0d7EpEnF91klMTdr45w&e=1639035056
-
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",TVP 1
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34477
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",TVP 2
 https://list.iptvcat.com/my_list/s/f6a5453a357d7a4217bcf332e87dd7b8.m3u8
-
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Informacyjne",TVP 3
 https://rsdt-waw1301-68.tvp.pl/token/video/live/14812858/20211209/1365481123/9a1923e1-885e-4c49-8b1c-cc040a55d6e6/stream_0.m3u8
-
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",TV4
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34583
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",Tele5
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/1029
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",TV6
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34557
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",TVN 7
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34475
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",TVN
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34470
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",Polsat
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34481
-
+https://list.iptvcat.com/my_list/s/ae128bc5e897c649cb9f85e2266d966d.m3u8
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",Polsat 2
 http://darmowa-tv.ws/run/co.m3u8?sid=D283C905&id=10258&q=tvhd
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",TV Republika
 http://m1-tvrepublika.4vod.tv/smil:premium_abr.ism/chunklist_b1600000.m3u8
-
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",PULS
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34552
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",PULS 2
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/110035
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",TVS
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/630
-
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Informacyjne",TVP INFO
 https://rsdt-waw1402-165.tvp.pl/token/video/live/14812849/20211209/1365481123/f82725a9-96ba-4257-b9f6-12ffc70236ce/stream_0.m3u8
-
-
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Informacyjne",TVN 24
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34476
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Informacyjne",TVN 24 BiS
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34498
-
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Informacyjne",Superstacja
 http://darmowa-tv.ws/run/co.m3u8?sid=A8F24DC5&id=1577&q=tv
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Informacyjne",Polsat News
 http://darmowa-tv.ws/run/co.m3u8?sid=6A563CAF&id=1574&q=tvhd
-
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Informacyjne",Polsat News 2
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/738
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Rozrywkowe",TVP KULTURA
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/42485
-
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Rozrywkowe",TVP POLONIA
 https://rsdt-waw1401-164.tvp.pl/token/video/live/34414171/20211209/1365481123/a737bf2e-6b86-49fa-a52c-e00a7d9b7238/stream_0.m3u8
-
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Rozrywkowe",TVP ROZRYWKA
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/42484
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",TVP HISTORIA
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/42137
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",TVP HISTORIA 2
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/103114
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",Discovery
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34560
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",Discovery HISTORIA
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/666
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",Discovery Science
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34485
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",Discovery Life
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34550
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",ID
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34562
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",Animal Planet
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34505
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",National Geographic
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34543
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",National Geographic PEOPLE
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34488
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",National Geographic WILD
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34494
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",Planete+
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34518
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",HISTORY
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34524
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",HISTORY 2
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/10213
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",DA VINCI LEARNING
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/667
-
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",Crime Investigation Polsat
 http://darmowa-tv.ws/run/co.m3u8?sid=F9A05338&id=11306&q=tv
-
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",Polsat VIASAT EXPLORE
 http://darmowa-tv.ws/run/co.m3u8?sid=C708000D&id=4196&q=tvhd
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",Polsat VIASAT HISTORY
 http://darmowa-tv.ws/run/co.m3u8?sid=D91EDD46&id=4194&q=tvhd
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",Polsat VIASAT NATURE
 http://darmowa-tv.ws/run/co.m3u8?sid=57304801&id=4195&q=tv
-
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",Polsat Doku
 http://darmowa-tv.ws/run/co.m3u8?sid=0267FF41&id=13302&q=tvhd
-
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",CANAL+ DOKUMENT
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34559
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",RED Carpet
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/49147
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",Polsat Film
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34566
-
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",13 Ulica
 https://list.iptvcat.com/my_list/s/ea0693df27da5c7920fb1d5bb2e6e5d2.m3u8
-
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",Stopklatka
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/644
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",ALE KINO+
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34512
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",Kino TV
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/49145
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",Kino Polska
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34581
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",Polsat Seriale
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34585
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",TVP Seriale
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/632
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",TVN FABULA
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34472
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",Paramount Channel
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34504
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",AXN
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34520
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",AXN Spin
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34549
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",AXN WHITE
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/813
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",AXN Black
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/815
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",AMC
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34558
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",SCI FI
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34535
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",CANAL+ PREMIUM
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34538
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",Canal+ NOW
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34539
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",CANAL+ FILM
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34514
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",CANAL+ FAMILY
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/345
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",CANAL SERIALE
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34515
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",Warner TV
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34492
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",HBO 1
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34480
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",HBO 2
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34508
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",HBO 3
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34509
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",FILMBOX PREMIUM
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34551
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",FILMBOX EXTRA
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/49142
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",FILMBOX FAMILY
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/660
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",FILMBOX ACTION
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/662
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",FILMBOX ARTHOUSE
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/661
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",CINEMAX
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34493
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",CINEMAX 2
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34521
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",FOX
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34523
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",Romance Tv
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34564
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Rozrywkowe",FOX Comedy
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34522
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Rozrywkowe",TVP Rozrywka
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/633
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Rozrywkowe",COMEDY CENTERAL
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34500
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Rozrywkowe",Polsat COMEDY CENTRAL Extra
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34499
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Tematyczne",HGTV
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34497
-
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Tematyczne",Polsat Cafe
 http://darmowa-tv.ws/run/co.m3u8?sid=564F662D&id=11441&q=tvhd
-
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Tematyczne",TTV
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34474
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Tematyczne",MOTOWIZJA
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34517
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Tematyczne",TVN TURBO
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34473
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Tematyczne",CANAL+ Domo
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34576
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Tematyczne",CANAL+ KUCHNIA
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34516
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",ADVENTURE
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34496
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",E!
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34529
-
+https://list.iptvcat.com/my_list/s/f9e8ebd5f2071e2df6524d7bff3893fa.m3u8
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Polsat Play
 http://darmowa-tv.ws/run/co.m3u8?sid=504A45C5&id=11379&q=tvhd
-
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Dla dzieci",Disney Channel
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34544
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Dla dzieci",DISNEY XD
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/802
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Dla dzieci",Cartoon Network
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34483
-
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",Polsat Games
 http://darmowa-tv.ws/run/co.m3u8?sid=9AAC4ED2&id=17550&q=tvhd
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Muzyczne",4fun TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Muzyczne",Eurodance 90
 https://eurodance90.catcast.tv/content/36987/index.m3u8
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml"
+#EXTINF:-1 tvg-id="4FUNTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="" group-title="",4FUN TV (576p) [Not 24/7]
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-id="BBCLifestyle.uk" tvg-country="PL" tvg-language="Polish;English" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="Lifestyle",BBC Lifestyle (576p) [Geo-blocked]
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="dlaCiebietv.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/N318K6a.jpg" group-title="",dlaCiebie.tv (720p) [Not 24/7]
+http://94.246.128.53:1935/tv/dlaCiebieTv/playlist.m3u8
+#EXTINF:-1 tvg-id="Echo24.tv" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/a5DX4nh.jpg" group-title="",Echo24 (720p)
+https://live-insysgo.cf.insyscd.net/echo24.720.smil/manifest.mpd
+#EXTINF:-1 tvg-id="EzoTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/hJAoLIq.png" group-title="",Ezo TV (576p) [Not 24/7]
+http://live.ezotv.pl:1935/live/EZOTV/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioCzworka.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="" group-title="",Radio Czworka (1080p)
+http://stream14.polskieradio.pl:1935/pr4_video/video_pr4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SferaTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/kgE2maL.jpg" group-title="",Sfera TV (480p) [Not 24/7]
+http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TelewizjaPograniczeGlubczyce.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ilGvIug.jpeg" group-title="",Telewizja Pogranicze (Głubczyce) (720p) [Not 24/7]
+http://95.160.28.218:1935/pogranicze/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TelewizjaTorun.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="" group-title="",Telewizja Toruń (1080p) [Not 24/7]
+http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
+#EXTINF:-1 tvg-id="TrwamTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="" group-title="",Trwam TV (480p)
+http://trwamtv.live.e57-po.insyscd.net/cl01/out/u/trwam_3.m3u8
+#EXTINF:-1 tvg-id="TVKujawy.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/tgLWe9o.jpg" group-title="",TV Kujawy (576p) [Not 24/7]
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1 tvg-id="TVRegionalnaLubin.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/l8tRJVW.jpg" group-title="",TV Regionalna (Lubin) (576p) [Not 24/7]
+https://tvreg.klemit.net/regionalna/stream/index.m3u8
+#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/VaiHvZ3.jpg" group-title="",TV Republika (1080p)
+https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
+#EXTINF:-1 tvg-id="TVTorun.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/GdbkqCM.png" group-title="",TV Toruń (1080p)
+http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVTrwam.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/k6zdLLu.jpg" group-title="",TV Trwam (480p)
+https://trwamtv.live.e59-po.insyscd.net/cl01/out/u/trwam_3.m3u8
+#EXTINF:-1 tvg-id="TVN24BiSHD.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="" group-title="",TVN24 BiS HD (1080p) [Not 24/7]
+http://89.160.178.236:8080/play/a03y/index.m3u8
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/TVP1.png" group-title="",TVP 1 (720p)
+http://207.110.52.61:8080/s/hls/5/9584/tvp1_276/1/1/index.m3u8
+#EXTINF:-1 tvg-id="TVP3Bialystok.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/zPSpvss.jpg" group-title="",TVP 3 Białystok (404p)
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
+#EXTINF:-1 tvg-id="TVP3Bydgoszcz.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/b0Xevsc.jpg" group-title="",TVP 3 Bydgoszcz (404p)
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz
+#EXTINF:-1 tvg-id="TVP3Gdansk.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/wGZCj7G.jpg" group-title="",TVP 3 Gdańsk (404p)
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
+#EXTINF:-1 tvg-id="TVP3GorzowWielkopolski.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/H3jtBQm.jpg" group-title="",TVP 3 Gorzów Wielkopolski (404p)
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow
+#EXTINF:-1 tvg-id="TVP3Katowice.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/burRKHa.jpg" group-title="",TVP 3 Katowice (404p)
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
+#EXTINF:-1 tvg-id="TVP3Kielce.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/YcQxM94.jpg" group-title="",TVP 3 Kielce (404p)
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce
+#EXTINF:-1 tvg-id="TVP3Krakow.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/MbAKxD1.jpg" group-title="",TVP 3 Kraków (404p)
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow
+#EXTINF:-1 tvg-id="TVP3Lodz.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/r5wxdkB.jpg" group-title="",TVP 3 Łódź (404p)
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
+#EXTINF:-1 tvg-id="TVP3Lublin.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/h7oq2yg.jpg" group-title="",TVP 3 Lublin (404p)
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin
+#EXTINF:-1 tvg-id="TVP3Olsztyn.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/Aa0HedU.jpg" group-title="",TVP 3 Olsztyn (404p)
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn
+#EXTINF:-1 tvg-id="TVP3Opole.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/dYRtDRA.jpg" group-title="",TVP 3 Opole (404p)
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole
+#EXTINF:-1 tvg-id="TVP3Poznan.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/mTnjVGQ.jpg" group-title="",TVP 3 Poznań (404p)
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan
+#EXTINF:-1 tvg-id="TVP3Rzeszow.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/6jGX6Xy.jpg" group-title="",TVP 3 Rzeszów (404p)
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow
+#EXTINF:-1 tvg-id="TVP3Szczecin.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/NRb6S8z.jpg" group-title="",TVP 3 Szczecin (404p)
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
+#EXTINF:-1 tvg-id="TVP3Warszawa.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/AfZOO8U.jpg" group-title="",TVP 3 Warszawa (404p)
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
+#EXTINF:-1 tvg-id="TVP3Wroclaw.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/0em2QIh.jpg" group-title="",TVP 3 Wrocław (404p)
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/idt6Zz3.jpg" group-title="",TVP Info (404p)
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
+#EXTINF:-1 tvg-id="TVPParlament1.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/CpgzCZq.jpg" group-title="",TVP Parlament (kanał 1) (404p)
+http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal1
+#EXTINF:-1 tvg-id="TVPSejm.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/CpgzCZq.jpg" group-title="",TVP Sejm (404p)
+http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=sejm
+#EXTINF:-1 tvg-id="TVPSenat.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/CpgzCZq.jpg" group-title="",TVP Senat (404p)
+http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=senat
+#EXTINF:-1 tvg-id="TVT.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="" group-title="",TVT (410p) [Not 24/7]
+http://176.107.129.219/media/tvt/index.m3u8
+#EXTINF:-1 tvg-id="TVTZgorzelec.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/zhzVpgf.jpg" group-title="",TVT Zgorzelec (576p) [Not 24/7]
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
 
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Muzyczne",MTV POLSKA
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34502
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Muzyczne",MTV Live
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34501
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Muzyczne",Polsat Music
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34556
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Muzyczne",KINO POLSKA Muzyczne
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/653
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Muzyczne",ESKA ROCK
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/1034
 
