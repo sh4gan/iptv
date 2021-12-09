@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml"
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",NatureEscape
 https://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Inne", Joga TV
@@ -49,7 +49,6 @@ http://darmowa-tv.ws/run/co.m3u8?sid=9AAC4ED2&id=17550&q=tvhd
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Muzyczne",Eurodance 90
 https://eurodance90.catcast.tv/content/36987/index.m3u8
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml"
 #EXTINF:-1 tvg-id="4FUNTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="" group-title="",4FUN TV (576p) [Not 24/7]
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-id="BBCLifestyle.uk" tvg-country="PL" tvg-language="Polish;English" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="Lifestyle",BBC Lifestyle (576p) [Geo-blocked]
@@ -128,7 +127,6 @@ http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=senat
 http://176.107.129.219/media/tvt/index.m3u8
 #EXTINF:-1 tvg-id="TVTZgorzelec.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/zhzVpgf.jpg" group-title="",TVT Zgorzelec (576p) [Not 24/7]
 http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTM3U
 #EXTINF:-1,PL: TVP 1 HD
 http://trabzontv.xyz:8080/ersin57/57ersin/167271
 #EXTINF:-1,PL: TVP 2 HD
@@ -453,7 +451,6 @@ http://trabzontv.xyz:8080/ersin57/57ersin/167432
 http://trabzontv.xyz:8080/ersin57/57ersin/167433
 #EXTINF:-1,PL: Polsat Comedy Central Extra HD
 http://trabzontv.xyz:8080/ersin57/57ersin/167434
-#EXTM3U
 #EXTINF:-1,PL: TVP 1 HD
 http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118134
 #EXTINF:-1,PL: TVP 2 HD
@@ -718,7 +715,6 @@ http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118809
 http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118810
 #EXTINF:-1,PL: TVP Sport HD
 http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118811
-#EXTM3U
 #EXTINF:-1,PT: RTP 1
 http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118263
 #EXTINF:-1,PT: RTP 2
@@ -885,7 +881,6 @@ http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118817
 http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118818
 #EXTINF:-1,PT: Benfica TV
 http://srv.webnet.icu:8080/qgrpdhqs/22oSnO2t1r/118820
-#EXTM3U
 #EXTINF:-1,PL: 4 Fun Kids
 http://nox101.com:8080/live/mehmetkis/mehmetkis/76284.ts
 #EXTINF:-1,PL: 4 Fun TV HD
@@ -1202,7 +1197,6 @@ http://nox101.com:8080/live/mehmetkis/mehmetkis/76499.ts
 http://nox101.com:8080/live/mehmetkis/mehmetkis/76500.ts
 #EXTINF:-1,PL: Zoom TV
 http://nox101.com:8080/live/mehmetkis/mehmetkis/76501.ts
-#EXTM3U
 #EXTINF:-1,PL: Eleven Sports 1 4K Ultra
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/8613
 #EXTINF:-1,PL: TV PULS FHD
@@ -1655,7 +1649,6 @@ http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/258829
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/258862
 #EXTINF:-1,PL: TVN Turbo FHD
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/258865
-#EXTM3U
 #EXTINF:0,TVP HD
 http://103.194.169.171:8282/PL:TVP_HD_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:0,TVP 1 HD
@@ -1950,7 +1943,6 @@ http://103.194.169.171:8282/PL:SCIFI_UNIVERSAL/mono.m3u8?token=93a611c10082e5eec
 http://103.194.169.171:8282/PL:Okazje/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:0,Kino Polska HD
 http://103.194.169.171:8282/PL:9448_KINO_POLSKA/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTM3U
 #EXTINF:-1,PL| TVP SPORT HD
 http://shooters.live:8080/0161711812846558/0161711812846558/185804
 #EXTINF:-1,PL| TVP ROZRYWKA
@@ -2177,7 +2169,6 @@ http://shooters.live:8080/0161711812846558/0161711812846558/185917
 http://shooters.live:8080/0161711812846558/0161711812846558/185918
 #EXTINF:-1,PL| TVN TURBO HEVC
 http://shooters.live:8080/0161711812846558/0161711812846558/185919
-#EXTM3U
 #EXTINF:-1,PL: 4 Fun Kids HD
 http://linkme.team:80/11042021/11042021/383851
 #EXTINF:-1,PL: 4 Fun TV HD
@@ -2494,4 +2485,3 @@ http://linkme.team:80/11042021/11042021/384020
 http://linkme.team:80/11042021/11042021/384021
 #EXTINF:-1,PL: Zoom TV HD
 http://linkme.team:80/11042021/11042021/384022
-
