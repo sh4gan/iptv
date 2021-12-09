@@ -1,12 +1,23 @@
 #EXTM3U
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",NatureEscape
+https://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Inne", Joga TV
+https://dvrfl01.tulix.tv/bohobeatifulyoga/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Inne", Joga TV
+https://dvrfl01.tulix.tv/bohobeatifulyoga/tracks-v1a1/2021/12/09/01/29/37-10010.ts
+
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",TVP HD
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34582
+https://ctpjxnnabnigzczq.wzcdn431.net:8443/hls/tk6gbt3.m3u8?s=IgW0d7EpEnF91klMTdr45w&e=1639035056
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",TVP 1
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34477
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",TVP 2
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34478
+https://list.iptvcat.com/my_list/s/f6a5453a357d7a4217bcf332e87dd7b8.m3u8
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Informacyjne",TVP 3
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/639
+https://rsdt-waw1301-68.tvp.pl/token/video/live/14812858/20211209/1365481123/9a1923e1-885e-4c49-8b1c-cc040a55d6e6/stream_0.m3u8
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",TV4
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34583
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",Tele5
@@ -19,28 +30,41 @@ http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34475
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34470
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",Polsat
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34481
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",Polsat 2
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34566
+http://darmowa-tv.ws/run/co.m3u8?sid=D283C905&id=10258&q=tvhd
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",TV Republika
+http://m1-tvrepublika.4vod.tv/smil:premium_abr.ism/chunklist_b1600000.m3u8
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",PULS
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34552
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",PULS 2
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/110035
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",TVS
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/630
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Informacyjne",TVP INFO
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34495
+https://rsdt-waw1402-165.tvp.pl/token/video/live/14812849/20211209/1365481123/f82725a9-96ba-4257-b9f6-12ffc70236ce/stream_0.m3u8
+
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Informacyjne",TVN 24
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34476
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Informacyjne",TVN 24 BiS
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34498
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Informacyjne",Superstacja
+http://darmowa-tv.ws/run/co.m3u8?sid=A8F24DC5&id=1577&q=tv
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Informacyjne",Polsat News
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34569
+http://darmowa-tv.ws/run/co.m3u8?sid=6A563CAF&id=1574&q=tvhd
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Informacyjne",Polsat News 2
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/738
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Rozrywkowe",TVP KULTURA
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/42485
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Rozrywkowe",TVP POLONIA
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/42483
+https://rsdt-waw1401-164.tvp.pl/token/video/live/34414171/20211209/1365481123/a737bf2e-6b86-49fa-a52c-e00a7d9b7238/stream_0.m3u8
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Rozrywkowe",TVP ROZRYWKA
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/42484
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",TVP HISTORIA
@@ -73,22 +97,30 @@ http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34524
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/10213
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",DA VINCI LEARNING
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/667
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",Crime Investigation Polsat
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34565
+http://darmowa-tv.ws/run/co.m3u8?sid=F9A05338&id=11306&q=tv
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",Polsat VIASAT EXPLORE
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34546
+http://darmowa-tv.ws/run/co.m3u8?sid=C708000D&id=4196&q=tvhd
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",Polsat VIASAT HISTORY
+http://darmowa-tv.ws/run/co.m3u8?sid=D91EDD46&id=4194&q=tvhd
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",Polsat VIASAT NATURE
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34491
+http://darmowa-tv.ws/run/co.m3u8?sid=57304801&id=4195&q=tv
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",Polsat Doku
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34525
+http://darmowa-tv.ws/run/co.m3u8?sid=0267FF41&id=13302&q=tvhd
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Popularnonaukowe",CANAL+ DOKUMENT
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34559
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",RED Carpet
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/49147
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",Polsat Film
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34566
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",13 Ulica
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34528
+https://list.iptvcat.com/my_list/s/ea0693df27da5c7920fb1d5bb2e6e5d2.m3u8
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",Stopklatka
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/644
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",ALE KINO+
@@ -124,7 +156,7 @@ http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34539
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",CANAL+ FILM
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34514
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",CANAL+ FAMILY
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34513
+http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/345
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",CANAL SERIALE
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34515
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Filmowe",Warner TV
@@ -163,6 +195,10 @@ http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34500
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34499
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Tematyczne",HGTV
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34497
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Tematyczne",Polsat Cafe
+http://darmowa-tv.ws/run/co.m3u8?sid=564F662D&id=11441&q=tvhd
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Tematyczne",TTV
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34474
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Tematyczne",MOTOWIZJA
@@ -177,20 +213,24 @@ http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34516
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34496
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",E!
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34529
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Polsat Play
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34570
+http://darmowa-tv.ws/run/co.m3u8?sid=504A45C5&id=11379&q=tvhd
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Dla dzieci",Disney Channel
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34544
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Dla dzieci",DISNEY XD
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/802
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Dla dzieci",Cartoon Network
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34483
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Dla dzieci",NICKELODEON
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34482
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Dla dzieci",NICKTOONS
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34503
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Dla dzieci",teleToon+
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34519
+
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",Polsat Games
+http://darmowa-tv.ws/run/co.m3u8?sid=9AAC4ED2&id=17550&q=tvhd
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Muzyczne",4fun TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Muzyczne",Eurodance 90
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Muzyczne",MTV POLSKA
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34502
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Muzyczne",MTV Live
@@ -201,47 +241,4 @@ http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34556
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/653
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Muzyczne",ESKA ROCK
 http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/1034
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",TVP Sport
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34511
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",nSport+
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34563
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",Canal+ Sport
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34540
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",Canal+ Sport 2
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34574
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",Canal+ Sport 3
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34586
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",Canal+ Sport 4
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34587
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",ELEVEN Sports 1
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34577
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",ELEVEN Sports 2
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34578
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",ELEVEN Sports 3
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34579
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",ELEVEN Sports 4
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34541
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",EXTREME SPORTS
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34487
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",Polsat Sport
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34479
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",Polsat Sport Fight
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34489
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",Polsat Sport PREMIUM 1
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34464
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",Polsat Sport PREMIUM 2
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34465
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",Eurosport
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34530
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",Eurosport 2
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34486
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",Polsat Sport News
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34490
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",SportKlub HD
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34510
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",Fight Box
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34531
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sportowe",Fight Klub
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/34580
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Tematyczne",PLAYBOY TV
-http://ziutek.monster:8880/pXMX5FAk/dTJ6PByuENHBWCUZEw2d/41815
+
