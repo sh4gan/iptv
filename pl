@@ -13,8 +13,8 @@ https://list.iptvcat.com/my_list/s/f6a5453a357d7a4217bcf332e87dd7b8.m3u8
 https://rsdt-waw1301-68.tvp.pl/token/video/live/14812858/20211209/1365481123/9a1923e1-885e-4c49-8b1c-cc040a55d6e6/stream_0.m3u8
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",TVN 7
 https://list.iptvcat.com/my_list/s/ae128bc5e897c649cb9f85e2266d966d.m3u8
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",Polsat 2
-http://darmowa-tv.ws/run/co.m3u8?sid=D283C905&id=10258&q=tvhd
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",Polsat
+https://list.iptvcat.com/my_list/s/b8e1cd0f8998170973101658ee92bc9d.m3u8
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Podstawowe",TV Republika
 http://m1-tvrepublika.4vod.tv/smil:premium_abr.ism/chunklist_b1600000.m3u8
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Informacyjne",TVP INFO
